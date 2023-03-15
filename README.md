@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendra0905&label=Profile%20views&color=0e75b6&style=flat" alt="karnsing" /> </p>
 
-<img align="right" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+<img alt="img" align= "right" width="500" src = "https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966">
 
 - 🌱 I’m currently learning **_MERN Stack Development_**
 
