@@ -13,7 +13,7 @@
 - 💬 Ask me about **ReactJS, JavaScript**
 
 - 📫 How to reach me **bannalokendrapal2003@gmail.com**
-- 🪪 Check My protfolio :- **[[https://.github.io/](https://lokendra0905.github.io/)]([http://github.io/](https://lokendra0905.github.io/)**
+- 🪪 Check My protfolio :- **[(https://.github.io/](https://lokendra0905.github.io/)]**
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1yPo8mz8EgOmVt4rHkWwjSTtIAUwqFkbk/view?usp=share_link" alt="resume">Resume</a>
 <br/>
 <br/>
