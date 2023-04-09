@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Lokendra Pal Shekhawat; I am a Full-Stack%20Web%20Developer 👨🏻‍💻 &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendra0905&label=Profile%20views&color=0e75b6&style=flat" alt="karnsing" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendra0905&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <img alt="img" align= "right" width="500" src = "https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966">
 
