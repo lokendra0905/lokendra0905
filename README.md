@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokendra Pal Shekhawat</h1>
 <h2 align="center">Full Stack Web Developer</h2>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Lokendra Pal Shekhawat; I am a Full-Stack%20Web%20Developer 👨🏻‍💻 &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Lokendra Pal Shekhawat; I am a Full-Stack%20Web%20Developer 👨🏻‍💻 &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendra0905&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
