@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bannalokendrapal2003@gmail.com**
 - 🪪 Check My protfolio :- **[Lokendra Pal Shekhawat](https://lokendra0905.github.io/)**
-- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1yPo8mz8EgOmVt4rHkWwjSTtIAUwqFkbk/view?usp=share_link" alt="resume">Resume</a>
+- 📄 Know about my experiences:- <a href="[https://drive.google.com/file/d/1yPo8mz8EgOmVt4rHkWwjSTtIAUwqFkbk/view?usp=share_link](https://drive.google.com/file/d/171vxg7wPPIZ41TXy7bH-NFJOaUS1bRFN/view?usp=sharing)" alt="resume">Resume</a>
 <br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
