@@ -1,26 +1,32 @@
 <h1 align="center">Hi 👋, I'm Lokendra Pal Shekhawat</h1>
 <h2 align="center">Full Stack Web Developer</h2>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Lokendra Pal Shekhawat; I am a Full-Stack%20Web%20Developer 👨🏻‍💻 &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&random=false&width=435&lines=Hi!+My+Name+is+Lokendra+Pal+Shekhawat;I+am+a+Full-Stack+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+    <!-- <img src=""> -->
+    <!-- <a href="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Lokendra Pal Shekhawat; I am a Full-Stack%20Web%20Developer 👨🏻‍💻 &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=32&pause=3000"></a> -->
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendra0905&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=lokendra0905&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
+</p>
 
-<img alt="img" align= "right" width="500" src = "https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966">
+<img alt="img" align= "right" width="50%" src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
 - 🌱 I’m currently learning **_MERN Stack Development_**
 
 - 💬 Ask me about **ReactJS, JavaScript**
 
 - 📫 How to reach me **bannalokendrapal2003@gmail.com**
-- 🪪 Check My protfolio :- **[Lokendra Pal Shekhawat](https://lokendra0905.github.io/)**
-- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1yPo8mz8EgOmVt4rHkWwjSTtIAUwqFkbk/view?usp=share_link" alt="resume">Resume</a>
-<br/>
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lokendra-pal-shekhawat-222380244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princeLinkedin" height="30" width="40" /></a>
-</p>
+- 🪪 Check My protfolio :- <a href="https://lokendra0905.github.io/" target="_blank" alt="resume">Lokendra Pal Shekhawat</a>
+- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1yPo8mz8EgOmVt4rHkWwjSTtIAUwqFkbk/view?usp=share_link" target="_blank" alt="resume">Resume</a>
+  <br/>
+  <br/>
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+    <a href="https://www.linkedin.com/in/lokendra-pal-shekhawat-222380244/" target="_blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedIn" height="40" width="40" />
+    </a>
+    </p>
 
 ## 🚀 Languages and Tools:
 
