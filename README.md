@@ -12,19 +12,18 @@
 
 <img alt="img" align= "right" width="50%" src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
-- 🌱 I’m currently learning **_MERN Stack Development_**
+- 🌱 I’m an **_MERN Stack Developer_**
 
 - 💬 Ask me about **ReactJS, JavaScript**
 
-- 📫 How to reach me **bannalokendrapal2003@gmail.com**
+- 📫 How to reach me **lokendras49450@gmail.com**
 - 🪪 Check My protfolio :- <a href="https://lokendra0905.github.io/" target="_blank" alt="resume">Lokendra Pal Shekhawat</a>
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/171vxg7wPPIZ41TXy7bH-NFJOaUS1bRFN/view?usp=sharing" target="_blank" alt="resume">Resume</a>
   <br/>
   <br/>
-  
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="https://www.linkedin.com/in/lokendra-pal-shekhawat-222380244/" target="_blank">
+    <a href="http://www.linkedin.com/in/lokendra-shekhawat-222380244" target="_blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedIn" height="40" width="40" />
     </a>
     </p>
